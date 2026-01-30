@@ -1,4 +1,1 @@
-# NLP-2025
-## นี่คือ Lab ในวิชา 231xxx NLPปีการศึกษา 2568 ภาคเรียนที่ 2
-
-#streamlit run app.py
+# LocalAIAgentWithRAG
